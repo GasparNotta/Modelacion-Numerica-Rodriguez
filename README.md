@@ -8,7 +8,7 @@ Este repositorio es una recopilación de todo el material que usé para meter la
 
 ## 🗂️ ¿Qué vas a encontrar acá?
 
-* **📝 Finales Viejos y Resueltos:** Una colección de exámenes de fechas anteriores. Muchos incluyen la resolución analítica paso a paso, ideal para cazar las típicas "preguntas trampa".
+* **📝 Finales y Parciales(Algunos Resueltos):** Una colección de exámenes de fechas anteriores. Muchos incluyen la resolución analítica paso a paso, ideal para cazar las típicas.
 * **📘 Guías Prácticas (con soluciones):** Las y guias y algunos ejercicios resueltos.
 * **🚀 La Hoja de Fórmulas:** El Santo Grial. Un resumen al pie con todas las ecuaciones que necesitás tener.
 
